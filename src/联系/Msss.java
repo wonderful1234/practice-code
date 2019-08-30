@@ -1,0 +1,11 @@
+package ÁªÏµ;
+
+public class Msss {
+	public static void main(String[] args) {
+		int num=2147483647;
+		long temp=num+2L;
+		
+		System.out.println(num);
+	}
+
+}
